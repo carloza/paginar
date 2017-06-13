@@ -1,5 +1,5 @@
 # paginar
-paginar en lenguaje ensamblaador (Assembly - Assembler)
+paginar en lenguaje ensamblador (Assembly - Assembler)
 
 Se desea implementar en lenguaje ensamblador un programa denominado paginar cuyo propósito
 principal es mostrar un texto por consola completando de a una pantalla por vez (como realiza el
@@ -10,3 +10,5 @@ La última línea de la página se utiliza para mostrar la cantidad de líneas m
 momento del archivo. Notar que esta información ocupa una línea en la pantalla.
 El programa debe contar con una opción para indicar la cantidad de líneas que puede tener cada
 página. En caso de no indicar nada, se deben considerar páginas de 20 líneas.
+
+Proyecto organizacion de computadoras 2013, Universidad Nacional del Sur, Argentina
